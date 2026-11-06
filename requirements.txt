@@ -1,0 +1,7 @@
+torch
+torchaudio
+numpy
+scipy
+matplotlib
+indic-nlp-library
+reportlab
